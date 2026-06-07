@@ -1,0 +1,7 @@
+python-dotenv
+google-api-python-client
+transformers
+torch
+pandas
+streamlit
+plotly
