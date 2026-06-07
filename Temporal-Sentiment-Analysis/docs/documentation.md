@@ -861,6 +861,15 @@ Display the timestamps most frequently mentioned by viewers.
 
 Which moments are repeatedly discussed by the audience?
 
+
+### Visualization
+
+![Most Referenced Timestamps](../images/most-referenced-timestamps.jpeg)
+
+
+
+
+
 ### Insights
 
 Frequently referenced timestamps often correspond to:
